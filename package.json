@@ -1,7 +1,7 @@
 {
-    "name": "hackathon-boilerplate",
+    "name": "xDai NFT Borrowing Aggretation",
     "version": "1.0.0",
-    "description": "Boilerplate for hackathons.",
+    "description": "BEARROWING FORK on XDAI",
     "scripts": {
         "sm:test": "scripts/test.sh",
         "sm:compile": "etherlime compile --runs 200",
